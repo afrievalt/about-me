@@ -14,9 +14,9 @@ I would like to utilize my expertise in react to deliver value. I love building 
 
 ### What did you do at your last 2 companies?
 
-<div style="display:flex; gap: 8px; align-items: center; font-size: 1.3em; margin-bottom: 8px;">
+<div>
     <img src="./assets/ServiceChannel.png" 
-    alt="Service Channel Image" width="32"/> 
+    alt="Service Channel Image" width="18"/> 
     Service Channel
 </div>
 
@@ -28,8 +28,8 @@ As needed, I was an individual contributor to [Service Channel Managed](https://
 
 [About ServiceChannel](https://www.linkedin.com/company/servicechannel/about/)
 
-<div style="display:flex; gap: 8px; align-items: center; font-size: 1.3em; margin-bottom: 8px;">
-    <img src="./assets/NorthwesternMutal.png" alt="NM" width="32"/> 
+<div >
+    <img src="./assets/NorthwesternMutal.png" alt="NM" width="18"/> 
     Northwestern Mutual
 </div>
 
