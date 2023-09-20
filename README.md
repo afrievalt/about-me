@@ -19,8 +19,27 @@ I would like to utilize my expertise in react to deliver value. I love building 
     alt="Service Channel Image" width="32"/> 
     Service Channel
 </div>
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          width: 100%;
+          height: 300px;
+          background-color: black;
+          color: white;
+        }
+      </style>
 
-As a Front End Technical Lead, I was responsible for improving the over all quality of the front end software systems and level up the developers around me. I achieved this by conducting thorough design and code reviews, documenting best practices, documenting code review standards, and one on one mentoring. As a result of my effort, features were able to be derived faster by more developers and with higher quality.  
+      <div class="container">
+        <h1>Hi there, my name is Nikola 👋</h1>
+      </div>
+    </div>
+
+  </foreignObject>
+</svg>
+As a Front End Technical Lead, I was responsible for improving the over all quality of the front end software systems and level up the developers around me. I achieved this by conducting thorough design and code reviews, documenting best practices, documenting code review standards, and one on one mentoring. As a result of my effort, features were able to be derived faster by more developers and with higher quality.
 
 I also architected and implemented the component library adhering to our design system. This component library was used by multiple team and helped deliver a more consistent look and feel.
 
@@ -34,8 +53,9 @@ As needed, I was an individual contributor to [Service Channel Managed](https://
 </div>
 
 #### Lead tiger team.
+
 We traveled to our Seattle office to design an add-on to Posting+. Working closely with that office, we were able to rapidly breakdown a complex and confusing process. After building different workflows, we were able to respond to feedback and quickly deliver a solution. New FRs now require less training and have less compliance issues increasing FR retention. All FRs are able to service more clients by spending less time on paper work.
- 
+
 In just two months more than 700 representatives discontinued the dictation service. This feature alone resulted in $38,000 a month in savings.
 
 More coming soon....
