@@ -2,6 +2,7 @@
 
 - [Why are you looking for a new opportunity?](https://github.com/afrievalt/about-me#why-are-you-looking-for-a-new-opportunity)
 - [What are you looking for in your next opportunity?](https://github.com/afrievalt/about-me#what-are-you-looking-for-in-your-next-opportunity)
+- [What did you do at your last 2 companies?]()
 - [What do others say about you?](https://github.com/afrievalt/about-me#what-do-others-say-about-you)
 
 ### Why are you looking for a new opportunity?
@@ -20,11 +21,11 @@ I would like to utilize my expertise in react to deliver value. I love building 
     Service Channel
 </div>
 
-As a Front End Technical Lead, I was responsible for improving the over all quality of the front end software systems and level up the developers around me. I achieved this by conducting thorough design and code reviews, documenting best practices, documenting code review standards, and one on one mentoring. As a result of my effort, features were able to be derived faster by more developers and with higher quality.
+In my role as a Front End Technical Lead, I took charge of enhancing the overall quality of our front-end software systems and elevating the skills of fellow developers. I accomplished this through rigorous design and code reviews, documenting best practices, and the formulation of code review standards. Additionally, I provided one-on-one mentoring to team members. As a result of these efforts, we witnessed accelerated feature development, better software performance, all while maintaining a high standard of quality and reduction in tech-debt.
 
-I also architected and implemented the component library adhering to our design system. This component library was used by multiple team and helped deliver a more consistent look and feel.
+Furthermore, I spearheaded the design and implementation of a component library in line with our design system. This library found utility across multiple teams, contributing to a more consistent and cohesive user interface experience.
 
-As needed, I was an individual contributor to [Service Channel Managed](https://www.linkedin.com/products/servicechannel-managed/).
+As needed, I was also an individual contributor to [Service Channel Managed](https://www.linkedin.com/products/servicechannel-managed/).
 
 [About ServiceChannel](https://www.linkedin.com/company/servicechannel/about/)
 
@@ -33,13 +34,15 @@ As needed, I was an individual contributor to [Service Channel Managed](https://
     Northwestern Mutual
 </div>
 
-#### Lead tiger team.
+I spearheaded the development of Northwestern Mutual's mobile application.  Posting+ helped Financial Representatives (FR) call clients and easily track activity in the CRM.  One of the challenges of the project was the Siebel CRM was getting replaced with Microsoft Dynamics CRM.  I architected the frontend in such a way the we could seamlessly replace the backend.
 
-We traveled to our Seattle office to design an add-on to Posting+. Working closely with that office, we were able to rapidly breakdown a complex and confusing process. After building different workflows, we were able to respond to feedback and quickly deliver a solution. New FRs now require less training and have less compliance issues increasing FR retention. All FRs are able to service more clients by spending less time on paper work.
+One of the rewarding aspects of this project was the ongoing engagement with stakeholders. We actively sought and incorporated their feedback from the start of the project.  This allowed us to swiftly adapt and fine-tune the software, making it not only functional but also enjoyable.  
 
-In just two months more than 700 representatives discontinued the dictation service. This feature alone resulted in $38,000 a month in savings.
+Here is some user feedback I received:
 
-More coming soon....
+* I can now make 12 calls in the time it took to make 4.
+* I've never heard the word intuitive used to describe software built here.
+ Wow, this is great. You've eliminated all our excuses for not phoning. 
 
 ### What do others say about you?
 
