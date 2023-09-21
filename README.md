@@ -2,7 +2,7 @@
 
 - [Why are you looking for a new opportunity?](https://github.com/afrievalt/about-me#why-are-you-looking-for-a-new-opportunity)
 - [What are you looking for in your next opportunity?](https://github.com/afrievalt/about-me#what-are-you-looking-for-in-your-next-opportunity)
-- [What did you do at your last 2 companies?]()
+- [What did you do at your last 2 companies?](https://github.com/afrievalt/about-me#what-did-you-do-at-your-last-2-companies)
 - [What do others say about you?](https://github.com/afrievalt/about-me#what-do-others-say-about-you)
 
 ### Why are you looking for a new opportunity?
