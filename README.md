@@ -44,7 +44,7 @@ Here is some user feedback I received:
 * I've never heard the word intuitive used to describe software built here.
  Wow, this is great. You've eliminated all our excuses for not phoning. 
 
-What is your leadership experience?
+### What is your leadership experience?
 
 The majority of my leadership experience centers around the realm of technology. This entails making critical decisions regarding the selection of tools, libraries, frameworks, as well as overseeing and facilitating code and design reviews. In addition, I've been heavily involved in mentoring and guiding developers, as well as documenting processes and best practices.
 
@@ -52,7 +52,7 @@ Another significant aspect of my leadership journey involves nurturing and enhan
 
 Furthermore, I have played a pivotal role in the assessment of technical talent for hiring purposes and conducting performance evaluations.
 
-While I haven't managed direct reports, my approach to leadership has been largely informal due to my extensive experience as a contractor. Nevertheless, even in these capacities, I have held leadership positions such as scrum master, team lead, and was entrusted with spearheading Northwestern Mutual's inaugural tiger team initiative.
+I've never had direct reports, and a significant portion of my experience in guiding and leading others has been informal, largely due to my status as a contractor. However, even in this capacity, I have held leadership roles, including serving as a scrum master, team lead, and being entrusted with the responsibility of leading Northwestern Mutual's inaugural tiger team initiative.
 
 Tiger teams are collaborative units that pair application development teams with Northwestern Mutual financial representatives nationwide to pinpoint areas where digital solutions can create value. Subsequently, these teams embark on expedited development exercises to create, test, refine, and deliver functional solutions.
 
