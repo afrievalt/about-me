@@ -44,6 +44,20 @@ Here is some user feedback I received:
 * I've never heard the word intuitive used to describe software built here.
  Wow, this is great. You've eliminated all our excuses for not phoning. 
 
+What is your leadership experience?
+
+The majority of my leadership experience centers around the realm of technology. This entails making critical decisions regarding the selection of tools, libraries, frameworks, as well as overseeing and facilitating code and design reviews. In addition, I've been heavily involved in mentoring and guiding developers, as well as documenting processes and best practices.
+
+Another significant aspect of my leadership journey involves nurturing and enhancing the skills of fellow professionals through mentoring and the establishment of structured learning paths.
+
+Furthermore, I have played a pivotal role in the assessment of technical talent for hiring purposes and conducting performance evaluations.
+
+While I haven't managed direct reports, my approach to leadership has been largely informal due to my extensive experience as a contractor. Nevertheless, even in these capacities, I have held leadership positions such as scrum master, team lead, and was entrusted with spearheading Northwestern Mutual's inaugural tiger team initiative.
+
+Tiger teams are collaborative units that pair application development teams with Northwestern Mutual financial representatives nationwide to pinpoint areas where digital solutions can create value. Subsequently, these teams embark on expedited development exercises to create, test, refine, and deliver functional solutions.
+
+I assembled a hand-picked team that journeyed to our Seattle office to devise an add-on for Posting+. Our close collaboration with the Seattle office enabled us to deconstruct a complex and convoluted process rapidly. By developing various workflows and actively incorporating feedback, we swiftly delivered a streamlined solution. This resulted in reduced training requirements for new financial representatives and a decrease in compliance issues, ultimately boosting retention rates. Additionally, all financial representatives could serve more clients with reduced paperwork, leading to substantial cost savings of over $32,000,000 and earning Northwestern Mutual the prestigious [Eye on Innovation Award](https://news.northwesternmutual.com/2016-10-19-Northwestern-Mutual-Honored-by-Gartner-with-Eye-on-Innovation-Prize).
+
 ### What do others say about you?
 
 ##### [Yegor Mialyk](https://www.linkedin.com/in/mialyk/) direct manager
