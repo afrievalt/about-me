@@ -28,7 +28,10 @@ Furthermore, I spearheaded the design and implementation of a component library 
 
 As needed, I was also an individual contributor to [Service Channel Managed](https://www.linkedin.com/products/servicechannel-managed/).
 
+
 [About ServiceChannel](https://www.linkedin.com/company/servicechannel/about/)
+
+---
 
 <div >
     <img src="./assets/NorthwesternMutal.png" alt="NM" width="18"/> 
@@ -43,7 +46,9 @@ Here is some user feedback I received:
 
 * I can now make 12 calls in the time it took to make 4.
 * I've never heard the word intuitive used to describe software built here.
- Wow, this is great. You've eliminated all our excuses for not phoning. 
+* Wow, this is great. You've eliminated all our excuses for not phoning. 
+
+
 
 ### What is your leadership experience?
 
@@ -53,7 +58,7 @@ Another significant aspect of my leadership journey involves nurturing and enhan
 
 Furthermore, I have played a pivotal role in the assessment of technical talent for hiring purposes and conducting performance evaluations.
 
-I've never had direct reports, and a significant portion of my experience in guiding and leading others has been informal, largely due to my status as a contractor. However, even in this capacity, I have held leadership roles, including serving as a scrum master, team lead, and being entrusted with the responsibility of leading Northwestern Mutual's inaugural tiger team initiative.
+I've never had direct reports.  I have held leadership roles, including serving as a scrum master, team lead, and being entrusted with the responsibility of leading Northwestern Mutual's inaugural tiger team initiative.
 
 Tiger teams are collaborative units that pair application development teams with Northwestern Mutual financial representatives nationwide to pinpoint areas where digital solutions can create value. Subsequently, these teams embark on expedited development exercises to create, test, refine, and deliver functional solutions.
 
