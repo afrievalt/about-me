@@ -4,6 +4,7 @@
 - [What are you looking for in your next opportunity?](https://github.com/afrievalt/about-me#what-are-you-looking-for-in-your-next-opportunity)
 - [What did you do at your last 2 companies?](https://github.com/afrievalt/about-me#what-did-you-do-at-your-last-2-companies)
 - [What is your leadership experience?](https://github.com/afrievalt/about-me#what-is-your-leadership-experience)
+ - [How do you stay up to date with Technologies?](https://github.com/afrievalt/about-me#how-do-you-stay-up-to-date-with-technologies)
 - [What do others say about you?](https://github.com/afrievalt/about-me#what-do-others-say-about-you)
 
 ### Why are you looking for a new opportunity?
@@ -63,6 +64,24 @@ I've never had direct reports.  I have held leadership roles, including serving 
 Tiger teams are collaborative units that pair application development teams with Northwestern Mutual financial representatives nationwide to pinpoint areas where digital solutions can create value. Subsequently, these teams embark on expedited development exercises to create, test, refine, and deliver functional solutions.
 
 I assembled a hand-picked team that journeyed to our Seattle office to devise an add-on for Posting+. Our close collaboration with the Seattle office enabled us to deconstruct a complex and convoluted process rapidly. By developing various workflows and actively incorporating feedback, we swiftly delivered a streamlined solution. This resulted in reduced training requirements for new financial representatives and a decrease in compliance issues, ultimately boosting retention rates. Additionally, all financial representatives could serve more clients with reduced paperwork, leading to substantial cost savings of over $32,000,000 and earning Northwestern Mutual the prestigious [Eye on Innovation Award](https://news.northwesternmutual.com/2016-10-19-Northwestern-Mutual-Honored-by-Gartner-with-Eye-on-Innovation-Prize).
+
+### How do you stay up to date with Technologies?
+
+Keeping pace with the ever-evolving tech landscape is a core element of my professional journey. Here's how I ensure I remain at the forefront of the latest developments:
+
+1. **Podcasts**: I'm an enthusiastic consumer of various tech-focused podcasts that hold sway in the industry. Among my favorites are "JavaScript Jabber," "Syntax," "Frontend Happy Hour" (I've worked with Stacy London), "This Week in Startups," and "React Round Up." Moreover, I was honored to be a guest on "[Developer on Fire](https://developeronfire.com/podcast/episode-364-andy-frievalt-you-don-t-need-permission)"
+
+2. **Meetups**: Active participation in local meetups keeps me attuned to the exciting happenings in our community. These gatherings offer a direct and hands-on way to connect with fellow tech enthusiasts and stay informed about local trends and developments.
+
+3. **Online Courses**: When my curiosity is piqued by a particular subject, I turn to trusted online platforms like Egghead, Frontend Masters, and Pluralsight. These resources have proven invaluable in enriching my knowledge and refining my skill set.
+
+4. **Hands-On Learning**: I firmly believe in learning through practical application. I don't shy away from rolling up my sleeves, creating tangible examples, and learning from my missteps. It is in the crucible of experimentation and problem-solving that I have found the most profound growth.
+
+5. **Resisting Shiny Object Syndrome**: Although I vigilantly track emerging technologies, I exercise caution in swiftly adopting each new framework or library that emerges. I assess their relevance to current needs before committing. My preference lies in mastering a curated set of technologies, enabling me to deliver value through code that I can comprehensively elucidate to others.
+
+6. **Valuing Timeless Knowledge**: I place great importance on timeless knowledge. Some of my most treasured talks and resources are more than a decade old. I firmly believe that if information retains its relevance and value over an extended period, it must possess exceptional quality.
+
+In essence, my approach to technology is rooted in a harmonious blend of staying well-informed, actively engaging with the tech community, hands-on experiential learning, and a judicious assessment of the enduring significance of knowledge. This approach equips me to be both adaptable and grounded in the bedrock of proven principles.
 
 ### What do others say about you?
 
