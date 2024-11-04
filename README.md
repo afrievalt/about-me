@@ -9,13 +9,22 @@
 
 ### Why are you looking for a new opportunity?
 
-After enjoying a fulfilling 30-year career, I recently encountered a new experience: being part of a Reduction In Force (RIF). I consider myself fortunate that it took this long for such an occurrence to arise.
+I'm not actively looking at the moment, but I always have my ear to the ground for me and my network.  
 
 ### What are you looking for in your next opportunity?
 
 I would like to utilize my expertise in react to deliver value. I love building applications with the end user in mind. I also enjoy building component library's. I love mentoring other developers and watching them grow.
 
-### What did you do at your last 2 companies?
+### What did you do at your last 3 companies?
+<div>
+    <img src="./assets/pokeratlas_logo.jpeg" 
+    alt="Poker Atlas Image" width="18"/> 
+    Poker Atlas
+</div>
+
+Building the next version of <a href="https://www.pokeratlas.com/info/table-captain">Table Caption</a>, poker room management system.  
+
+As technical lead, I  mentored developers, conduct thorough design and code reviews, and documented best practices. 
 
 <div>
     <img src="./assets/ServiceChannel.png" 
