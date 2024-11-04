@@ -94,6 +94,16 @@ In essence, my approach to technology is rooted in a harmonious blend of staying
 
 ### What do others say about you?
 
+##### [Patrick S Young](https://www.linkedin.com/in/patrick-s-young/)
+Senior React Developer with 10+ years experience in all aspects of data-driven frontend development with an emphasis on custom UI.Senior React Developer with 10+ years experience in all aspects of data-driven frontend development with an emphasis on custom UI.
+October 29, 2024, Patrick S worked with Andy on the same teamOctober 29, 2024, Patrick S worked with Andy on the same team
+Andy’s deep understanding of front-end development and his passion for mentoring resulted in a dramatic improvement in code quality across our entire team.
+
+Here are two examples that made a big difference for me:
+* Before I met Andy, I prided myself on limiting my React components to no more than 250 lines. Andy challenged me to lower that number to 60 lines. The approach of _Too Small To Fail_ was a game changer for me.
+
+* Andy emphasized the importance of separating JavaScript and JSX in a React component. It was something that I was already inclined to do, but Andy evolved my inclination into a best practice. Using the analogy of a recipe, Andy taught me to prepare my values (ingredients) so that when they are ‘mixed’ with the JSX, the resulting component could be read from the bottom up. With a successful 'recipe', the purpose of your component can be derived from the JSX alone.
+
 ##### [Yegor Mialyk](https://www.linkedin.com/in/mialyk/) direct manager
 
 Andy is a talented React/Redux engineer and architect who excels in mentoring colleagues and understands the significance of design systems. He is a master at developing robust React applications, leveraging Redux for state management, and ensuring efficient data flow within complex architectures. One of Andy's standout qualities is his dedication to mentoring others. He possesses excellent communication skills and actively invests time and effort in guiding and supporting the team. In addition to his mentoring skills, Andy recognizes the importance of design systems in creating consistent user interfaces. He understands how a well-structured design system can enhance productivity, streamline the development process, and maintain a unified user experience across products. Andy is a talented React/Redux engineer and architect who excels in mentoring colleagues and understands the significance of design systems. He is a master at developing robust React applications, leveraging Redux for state management, and ensuring efficient data flow within complex architectures. One of Andy's standout qualities is his dedication to mentoring others. He possesses excellent communication skills and actively invests time and effort in guiding and supporting the team. In addition to his mentoring skills, Andy recognizes the importance of design systems in creating consistent user interfaces. He understands how a well-structured design system can enhance productivity, streamline the development process, and maintain a unified user experience across products.
